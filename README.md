@@ -1,0 +1,3 @@
+- run `gulp`
+- src folder `raw`
+- dist folder `css`
